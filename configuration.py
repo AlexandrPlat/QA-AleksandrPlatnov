@@ -1,0 +1,6 @@
+URL_SERVICE = "https://8eb424c5-b371-4d27-8b29-0e26c7732589.serverhub.praktikum-services.ru"
+CREATE_USER_PATH = "/api/v1/users/"
+CREATE_KITS_PATH = "/api/v1/kits"
+PRODUCTS_KITS_PATH = "/api/v1/products/kits/"
+CREATE_KITS_PATH = "/api/v1/kits"
+USERS_TABLE_PATH = "/api/db/resources/user_model.csv"
